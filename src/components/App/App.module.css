@@ -1,0 +1,15 @@
+.mainContainer {
+  display: flex;
+  justify-content: space-around;
+
+  margin-top: 20px;
+  height: max-content;
+}
+
+.profileContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  width: 300px;
+}
